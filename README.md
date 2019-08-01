@@ -35,7 +35,7 @@ I grouped goods with increased tariff rates and decreased dutiable values, into 
 The final result is a table with the count of each of the two groups for every category of good — the first four digits of an HTS code. Because I am interested in classes where goods may have been displaced I looked for categories with at least four HTS codes in each group. There were 10 categories that fit this criteria.
 
 ## Acknowledgements
-In developing this analysis, I worked with my advisor at Columbis Graute School of Journalism, John Templon, data reporter at BuzzFeed News. I also consulted with  Gary Hufbauer, a senior fellow at Peterson Institute for International Trade, Geoffrey Carliner, an economics professor at Boston University, Zhi Wang, a research professor at George Mason University,and Xuepeng Liu, an economics professor at Kansas State University.
+In developing this analysis, I worked with my advisor at Columbia Graduate School of Journalism, John Templon, who is also a data reporter at BuzzFeed News. I consulted with  Gary Hufbauer, a senior fellow at Peterson Institute for International Trade, Geoffrey Carliner, an economics professor at Boston University, Zhi Wang, a research professor at George Mason University,and Xuepeng Liu, an economics professor at Kansas State University.
 
 ## Contact me
 Dian Zhang
