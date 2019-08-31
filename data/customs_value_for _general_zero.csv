@@ -1,0 +1,391 @@
+,Commodity,Time,Country,Customs Value (Gen) ($US),Customs  Value (Cons) ($US),Dutiable Value ($US),Calculated Duty ($US),Customs Value (Cons) ($US),code,year,month
+2050,"0709994500 Sweet Corn, Fresh Or Chilled (kg)",February 2018,China,0,"3,000",3000,639,3000,0709994500,2018,February
+3120,"0811204030 Blackberries, Frozen (kg)",November 2018,China,0,"11,903",11903,2262,11903,0811204030,2018,November
+4672,1301200000 Gum Arabic (kg),November 2018,China,0,"7,380",0,0,7380,1301200000,2018,November
+4673,1301200000 Gum Arabic (kg),December 2018,China,0,"3,494",0,0,3494,1301200000,2018,December
+6080,"1702901000 Sugrs/syrup,contn 6% Lt Non-sug Solid, Addtl Not 5 (kg)",January 2018,China,0,"49,534",49534,1529,49534,1702901000,2018,January
+6081,"1702901000 Sugrs/syrup,contn 6% Lt Non-sug Solid, Addtl Not 5 (kg)",April 2018,China,0,"5,002",5002,157,5002,1702901000,2018,April
+6224,"1806909090 Cocoa Preps, Nesoi, Not For Retail, Nesoi (kg)",November 2018,China,0,"40,731",40731,2444,40731,1806909090,2018,November
+6600,"2002908040 Tomato Puree, In Containers Holding 1.4 Kg Or More (kg)",September 2018,China,0,"4,096",4096,885,4096,2002908040,2018,September
+7529,"2009396020 Lemon Juice, Nesoi, Frozen (l)",February 2018,China,0,"241,713",241713,32856,241713,2009396020,2018,February
+8198,2208700030 Liqueurs & Cordials In Cntrs Nt Over 4 Liters (pfl),October 2018,China,0,"7,157",0,0,7157,2208700030,2018,October
+9281,"2710191600 Kerosene-type Jet Fuel, Not Cont Biodiesel, Nesoi (bbl)",October 2018,China,0,"2,840,700",2840700,15750,2840700,2710191600,2018,October
+11112,2841903000 Potassium Stannate (kg),January 2018,China,0,"4,200",4200,130,4200,2841903000,2018,January
+12881,"2909504050 Other Odoriferous Or Flavoring Compounds,nesoi (kg)",January 2018,China,0,"9,961",9961,478,9961,2909504050,2018,January
+12891,"2909504050 Other Odoriferous Or Flavoring Compounds,nesoi (kg)",November 2018,China,0,"26,049",26049,3385,26049,2909504050,2018,November
+12892,"2909504050 Other Odoriferous Or Flavoring Compounds,nesoi (kg)",December 2018,China,0,"16,031",16031,2373,16031,2909504050,2018,December
+13439,"2914791000 2,3-dichloro-1,4-naphthoquinone And Other Art Musk (kg)",July 2018,China,0,"4,169",4169,229,4169,2914791000,2018,July
+13443,"2914791000 2,3-dichloro-1,4-naphthoquinone And Other Art Musk (kg)",November 2018,China,0,"89,115",89115,4901,89115,2914791000,2018,November
+14742,"2918290400 2,3-cresotic Acid; M-hydroxybenzoic Acid; Etc (kg)",January 2018,China,0,"32,240",32240,1869,32240,2918290400,2018,January
+14747,"2918290400 2,3-cresotic Acid; M-hydroxybenzoic Acid; Etc (kg)",June 2018,China,0,"35,250",35250,2045,35250,2918290400,2018,June
+14749,"2918290400 2,3-cresotic Acid; M-hydroxybenzoic Acid; Etc (kg)",August 2018,China,0,"79,985",79985,4639,79985,2918290400,2018,August
+14943,"2918994700 Other Aromat Carboxy Acid With Add Oxy Funct, Etc (kg)",November 2018,China,0,"9,239",9239,601,9239,2918994700,2018,November
+15244,2921426500 Aniline Deriv Etc Of Prod In Us Note3 To Sect 6 (kg),May 2018,China,0,"2,860",2860,186,2860,2921426500,2018,May
+15675,"2922391000 2-aminoacetophenone: 3-aminoacetophenone, Etc (kg)",April 2018,China,0,"2,240",2240,130,2240,2922391000,2018,April
+15676,"2922391000 2-aminoacetophenone: 3-aminoacetophenone, Etc (kg)",May 2018,China,0,"5,130",5130,298,5130,2922391000,2018,May
+15678,"2922391000 2-aminoacetophenone: 3-aminoacetophenone, Etc (kg)",July 2018,China,0,"3,354",3354,195,3354,2922391000,2018,July
+15679,"2922391000 2-aminoacetophenone: 3-aminoacetophenone, Etc (kg)",September 2018,China,0,"30,091",30091,1745,30091,2922391000,2018,September
+15681,"2922391000 2-aminoacetophenone: 3-aminoacetophenone, Etc (kg)",December 2018,China,0,"4,228",4228,245,4228,2922391000,2018,December
+16199,2924297730 P-amino-benzamide (kg),April 2018,China,0,"2,730",2730,177,2730,2924297730,2018,April
+16358,"2926901600 2,2-dimethylcyclo-propanecarboxylate; Etc. (kg)",December 2018,China,0,"496,571",496571,49658,496571,2926901600,2018,December
+19793,3006920000 Waste Pharmaceuticals (kg),January 2018,China,0,"31,683",0,0,31683,3006920000,2018,January
+19794,3006920000 Waste Pharmaceuticals (kg),March 2018,China,0,"68,022",0,0,68022,3006920000,2018,March
+19795,3006920000 Waste Pharmaceuticals (kg),April 2018,China,0,"5,341",0,0,5341,3006920000,2018,April
+19796,3006920000 Waste Pharmaceuticals (kg),May 2018,China,0,"16,151",0,0,16151,3006920000,2018,May
+19797,3006920000 Waste Pharmaceuticals (kg),July 2018,China,0,"36,154",0,0,36154,3006920000,2018,July
+19798,3006920000 Waste Pharmaceuticals (kg),September 2018,China,0,"34,487",0,0,34487,3006920000,2018,September
+19799,3006920000 Waste Pharmaceuticals (kg),October 2018,China,0,"15,089",0,0,15089,3006920000,2018,October
+19801,3006920000 Waste Pharmaceuticals (kg),December 2018,China,0,"16,750",0,0,16750,3006920000,2018,December
+20240,"3204145000 Direct Dyes And Preparations Based Thereon,nesoi (kg)",October 2018,China,0,"18,603",18603,3070,18603,3204145000,2018,October
+21548,3302102000 Mixtures Containing Nt Over 20% Alcohol By Weight (kg),July 2018,China,0,"429,308",0,0,429308,3302102000,2018,July
+21551,3302102000 Mixtures Containing Nt Over 20% Alcohol By Weight (kg),October 2018,China,0,"126,140",0,0,126140,3302102000,2018,October
+21553,3302102000 Mixtures Containing Nt Over 20% Alcohol By Weight (kg),December 2018,China,0,"19,754",0,0,19754,3302102000,2018,December
+21559,"3302109000 Mixtures Contain Over 20% Alcohol By Weight, Nesoi (kg)",April 2018,China,0,"294,529",0,0,294529,3302109000,2018,April
+21560,"3302109000 Mixtures Contain Over 20% Alcohol By Weight, Nesoi (kg)",May 2018,China,0,"278,697",0,0,278697,3302109000,2018,May
+21562,"3302109000 Mixtures Contain Over 20% Alcohol By Weight, Nesoi (kg)",July 2018,China,0,"268,268",0,0,268268,3302109000,2018,July
+21563,"3302109000 Mixtures Contain Over 20% Alcohol By Weight, Nesoi (kg)",August 2018,China,0,"189,119",0,0,189119,3302109000,2018,August
+21564,"3302109000 Mixtures Contain Over 20% Alcohol By Weight, Nesoi (kg)",September 2018,China,0,"163,319",0,0,163319,3302109000,2018,September
+21565,"3302109000 Mixtures Contain Over 20% Alcohol By Weight, Nesoi (kg)",October 2018,China,0,"84,499",0,0,84499,3302109000,2018,October
+21566,"3302109000 Mixtures Contain Over 20% Alcohol By Weight, Nesoi (kg)",November 2018,China,0,"50,435",0,0,50435,3302109000,2018,November
+21597,3302902010 Perfume Oil Blends Containing Gt 10% Alcohol By Wt (kg),June 2018,China,0,"2,687",0,0,2687,3302902010,2018,June
+24337,3903901000 Methyl Methacrylate-butadiene-styrene(mbs)copolymr (kg),November 2018,China,0,"9,824",9824,3094,9824,3903901000,2018,November
+24338,3903901000 Methyl Methacrylate-butadiene-styrene(mbs)copolymr (kg),December 2018,China,0,"14,736",14736,4642,14736,3903901000,2018,December
+27415,"4001220050 Technically Specified Natural Rubber, Nesoi (kg)",June 2018,China,0,"6,335",0,0,6335,4001220050,2018,June
+29384,"4107195000 Bvn&eqn Upholstery Lthr Nesoi, Whole,furth Prep (m2)",December 2018,China,0,"4,543",4543,219,4543,4107195000,2018,December
+29412,"4107924000 Buffalo Leather Nesoi Incl Sides, Grain Splts (m2)",July 2018,China,0,"14,783",14783,370,14783,4107924000,2018,July
+30559,"4203104010 Anoraks,of Leather Or Composition Leather (no)",March 2018,China,0,"62,721",62721,3763,62721,4203104010,2018,March
+31056,"4401392000 Artificial Fire Lgs, Compsed Of Wax Sawdust,aglmtd (kg)",January 2018,China,0,"3,169",0,0,3169,4401392000,2018,January
+32629,"4412991020 Plywd Brch Face 1 Ply Noncon,nt Ov 3.6MMX1.2MX2.2M (m3)",August 2018,China,0,"76,635",0,0,76635,4412991020,2018,August
+32630,"4412991020 Plywd Brch Face 1 Ply Noncon,nt Ov 3.6MMX1.2MX2.2M (m3)",September 2018,China,0,"51,091",0,0,51091,4412991020,2018,September
+32631,"4412991020 Plywd Brch Face 1 Ply Noncon,nt Ov 3.6MMX1.2MX2.2M (m3)",October 2018,China,0,"18,733",0,0,18733,4412991020,2018,October
+33620,"4421998500 Clothespins, Of Wood, Nesoi (grs)",March 2018,China,0,"2,765",2765,133,2765,4421998500,2018,March
+34238,4602192940 Luggage And Flatgoods Of Vegetable Materials Nesoi (no),August 2018,China,0,"2,143",2143,114,2143,4602192940,2018,August
+34772,"4805919000 Paper/prboard,nesoi,unctd,wt 30-150 G/m2,rol/sheet (kg)",February 2018,China,0,"3,053",0,0,3053,4805919000,2018,February
+34925,"4808906000 Paper & pprboard Nesoi, Perforated In Rolls/sheets (kg)",April 2018,China,0,"3,200",0,0,3200,4808906000,2018,April
+35529,4811908030 Dir Therm Coat Paper Gt 30g/m2 Weight Gt 15cm Wide (kg),February 2018,China,0,"36,063",0,0,36063,4811908030,2018,February
+35531,4811908030 Dir Therm Coat Paper Gt 30g/m2 Weight Gt 15cm Wide (kg),April 2018,China,0,"2,658",0,0,2658,4811908030,2018,April
+35532,4811908030 Dir Therm Coat Paper Gt 30g/m2 Weight Gt 15cm Wide (kg),May 2018,China,0,"315,207",0,0,315207,4811908030,2018,May
+35536,4811908030 Dir Therm Coat Paper Gt 30g/m2 Weight Gt 15cm Wide (kg),September 2018,China,0,"319,359",0,0,319359,4811908030,2018,September
+35537,4811908030 Dir Therm Coat Paper Gt 30g/m2 Weight Gt 15cm Wide (kg),October 2018,China,0,"128,486",128486,12848,128486,4811908030,2018,October
+36640,"4906000000 Plans, Drawings For Architectural, Etc Purposes (kg)",August 2018,China,0,"9,366",0,0,9366,4906000000,2018,August
+38073,"5208316040 Pln Wv,dyd,&gt;=85% Cot,&lt;=100g/m2,#(43-68), Sheeting (m2)",July 2018,China,0,"2,321",2321,225,2321,5208316040,2018,July
+38430,5208514020 Wv Fb Ct&gt;=85%wgt Ct&lt;=100g/m2 Prtd Pl Wv #42 Pop/bc (m2),May 2018,China,0,"4,987",4987,404,4987,5208514020,2018,May
+38431,5208514020 Wv Fb Ct&gt;=85%wgt Ct&lt;=100g/m2 Prtd Pl Wv #42 Pop/bc (m2),August 2018,China,0,"2,517",2517,203,2517,5208514020,2018,August
+38434,5208514020 Wv Fb Ct&gt;=85%wgt Ct&lt;=100g/m2 Prtd Pl Wv #42 Pop/bc (m2),December 2018,China,0,861,0,0,861,5208514020,2018,December
+38758,5209210035 Wov Fab Gt Gt=85% Cot Gt 200g/m2 Blc Wv Sht Nt Ob (m2),March 2018,China,0,"18,167",18167,1398,18167,5209210035,2018,March
+38764,5209210035 Wov Fab Gt Gt=85% Cot Gt 200g/m2 Blc Wv Sht Nt Ob (m2),September 2018,China,0,"15,409",15409,1188,15409,5209210035,2018,September
+39942,5303100000 Jute & Other Textile Bast Fibers Raw/retted (kg),August 2018,China,0,"1,313",0,0,1313,5303100000,2018,August
+40016,5308901000 Yarn Of Other Veg Textile Fibers; Paper Yarn (kg),March 2018,China,0,745,745,20,745,5308901000,2018,March
+41767,5407840020 Wov Fab Con Lt 85% Syn Fil Mix W/cot Print Sheet (m2),January 2018,China,0,"1,008",1008,150,1008,5407840020,2018,January
+41768,5407840020 Wov Fab Con Lt 85% Syn Fil Mix W/cot Print Sheet (m2),February 2018,China,0,"2,787",2787,416,2787,5407840020,2018,February
+41769,5407840020 Wov Fab Con Lt 85% Syn Fil Mix W/cot Print Sheet (m2),March 2018,China,0,"2,391",2391,356,2391,5407840020,2018,March
+41771,5407840020 Wov Fab Con Lt 85% Syn Fil Mix W/cot Print Sheet (m2),May 2018,China,0,"5,818",5818,867,5818,5407840020,2018,May
+41772,5407840020 Wov Fab Con Lt 85% Syn Fil Mix W/cot Print Sheet (m2),June 2018,China,0,"2,669",2669,398,2669,5407840020,2018,June
+41773,5407840020 Wov Fab Con Lt 85% Syn Fil Mix W/cot Print Sheet (m2),July 2018,China,0,"3,247",3247,484,3247,5407840020,2018,July
+41775,5407840020 Wov Fab Con Lt 85% Syn Fil Mix W/cot Print Sheet (m2),September 2018,China,0,"5,395",5395,804,5395,5407840020,2018,September
+41777,5407840020 Wov Fab Con Lt 85% Syn Fil Mix W/cot Print Sheet (m2),December 2018,China,0,"1,148",1148,286,1148,5407840020,2018,December
+42001,5407942050 Wov Fab Of Synth Fila Yarn Prnted Nesoi Stn/twl Wv (m2),March 2018,China,0,505,505,75,505,5407942050,2018,March
+42003,5407942050 Wov Fab Of Synth Fila Yarn Prnted Nesoi Stn/twl Wv (m2),May 2018,China,0,"1,157",1157,172,1157,5407942050,2018,May
+42004,5407942050 Wov Fab Of Synth Fila Yarn Prnted Nesoi Stn/twl Wv (m2),June 2018,China,0,"1,620",1620,241,1620,5407942050,2018,June
+42349,"5503200025 Syn Stp Fib, Nt Prcssd, Of Poly, Lt 3.3 Deci,nesoi (kg)",November 2018,China,0,"3,271",0,0,3271,5503200025,2018,November
+43039,5513130020 Wv Fb Syn Lt 85% Mx Ct Lt=170g/m2 Ub/bl P St/tw W (m2),December 2018,China,0,"25,598",25598,6374,25598,5513130020,2018,December
+43104,5513290040 Wv Fb Syn Lt 85% Mx Ct Lt=170g/m2 Dyed Owf Chsclh (m2),January 2018,China,0,755,755,113,755,5513290040,2018,January
+43105,5513290040 Wv Fb Syn Lt 85% Mx Ct Lt=170g/m2 Dyed Owf Chsclh (m2),February 2018,China,0,"2,271",2271,339,2271,5513290040,2018,February
+43109,5513290040 Wv Fb Syn Lt 85% Mx Ct Lt=170g/m2 Dyed Owf Chsclh (m2),June 2018,China,0,"9,338",9338,1391,9338,5513290040,2018,June
+43110,5513290040 Wv Fb Syn Lt 85% Mx Ct Lt=170g/m2 Dyed Owf Chsclh (m2),July 2018,China,0,"9,559",9559,1424,9559,5513290040,2018,July
+43113,5513290040 Wv Fb Syn Lt 85% Mx Ct Lt=170g/m2 Dyed Owf Chsclh (m2),October 2018,China,0,"4,233",4233,1000,4233,5513290040,2018,October
+43114,5513290040 Wv Fb Syn Lt 85% Mx Ct Lt=170g/m2 Dyed Owf Chsclh (m2),November 2018,China,0,"3,430",3430,853,3430,5513290040,2018,November
+43157,5513410020 Wov Fb Syn Lt 85% Mx Ct Lt=170g/m2 Prntd P Pw P/b (m2),April 2018,China,0,"12,225",12225,1821,12225,5513410020,2018,April
+43162,5513410020 Wov Fb Syn Lt 85% Mx Ct Lt=170g/m2 Prntd P Pw P/b (m2),September 2018,China,0,"8,321",8321,1241,8321,5513410020,2018,September
+43214,5514191090 Wv Fb Syn Lt 85% Mx Ct Gt 170g/m2 Ub/bl Owfpsf Oth (m2),March 2018,China,0,"2,755",2755,411,2755,5514191090,2018,March
+43216,5514191090 Wv Fb Syn Lt 85% Mx Ct Gt 170g/m2 Ub/bl Owfpsf Oth (m2),May 2018,China,0,"1,903",1903,283,1903,5514191090,2018,May
+43320,5514303100 Wv Fb Syn Sf &lt;85% Mx Ct &gt;170g/m2 Ydc Py Sf Pl/wv (m2),April 2018,China,0,"1,114",1114,166,1114,5514303100,2018,April
+43373,5514410020 Wv Fb Syn Lt 85% Mx Ct Gt 170g/m2 Prnt Py Pw Pl/bc (m2),September 2018,China,0,"4,023",4023,599,4023,5514410020,2018,September
+43375,5514410020 Wv Fb Syn Lt 85% Mx Ct Gt 170g/m2 Prnt Py Pw Pl/bc (m2),November 2018,China,0,"1,931",1931,0,1931,5514410020,2018,November
+43468,5515120030 Oth Wov Fab Syn Ply St Fb M mmf Fil Printcloth (m2),May 2018,China,0,"1,503",1503,181,1503,5515120030,2018,May
+43469,5515120030 Oth Wov Fab Syn Ply St Fb M mmf Fil Printcloth (m2),July 2018,China,0,270,270,32,270,5515120030,2018,July
+43470,5515120030 Oth Wov Fab Syn Ply St Fb M mmf Fil Printcloth (m2),August 2018,China,0,582,582,70,582,5515120030,2018,August
+43471,5515120030 Oth Wov Fab Syn Ply St Fb M mmf Fil Printcloth (m2),October 2018,China,0,301,301,66,301,5515120030,2018,October
+43472,5515120030 Oth Wov Fab Syn Ply St Fb M mmf Fil Printcloth (m2),December 2018,China,0,484,484,106,484,5515120030,2018,December
+46579,5810929050 Embroidery mmf On A Grd Lt 100 G/m2 Wid Gt 225 C/m (kg),January 2018,China,0,535,535,40,535,5810929050,2018,January
+46586,5810929050 Embroidery mmf On A Grd Lt 100 G/m2 Wid Gt 225 C/m (kg),October 2018,China,0,318,318,23,318,5810929050,2018,October
+48459,"6101301500 M/b Overcoat Etc,mmf Cont Gt=23% Wool/fah, Knit (doz)",January 2018,China,0,"20,029",20029,2295,20029,6101301500,2018,January
+48889,"6103411020 M/b Shorts Of Wool, Knit (doz)",November 2018,China,0,"2,867",2867,465,2867,6103411020,2018,November
+49562,"6104441000 W/g Dresses Art Fib Cont 23% More Wool, Knit (doz)",April 2018,China,0,"3,055",3055,455,3055,6104441000,2018,April
+49729,"6104591005 W/g Skirts Of Artif Fibers Gt=23% Wool, Knit (doz)",November 2018,China,0,518,518,41,518,6104591005,2018,November
+49730,"6104591005 W/g Skirts Of Artif Fibers Gt=23% Wool, Knit (doz)",December 2018,China,0,532,532,43,532,6104591005,2018,December
+50589,"6107191000 M/b Underpants Ot Tex Mat Cont 70% More Silk, Knit (doz)",April 2018,China,0,"1,598",1598,14,1598,6107191000,2018,April
+51147,"6108995013 W/g Kt Robes Etc Tex Mat Cont 70% More Silk,undrwr (doz)",February 2018,China,0,"6,573",6573,39,6573,6108995013,2018,February
+52798,6110909079 M/b Pullov Knit To Shape Subj Man-made Restr Nesoi (doz),January 2018,China,0,"8,911",8911,535,8911,6110909079,2018,January
+52822,6110909081 W/g Pullov Knit To Shape Subj Man-made Restr Nesoi (doz),December 2018,China,0,"1,466",1466,88,1466,6110909081,2018,December
+53730,6113009074 M/b Ot Grmnt Knit Cot Impreg Resin Ex Rbr/plastic (doz),February 2018,China,0,547,547,39,547,6113009074,2018,February
+53734,6113009074 M/b Ot Grmnt Knit Cot Impreg Resin Ex Rbr/plastic (doz),August 2018,China,0,"1,182",1182,84,1182,6113009074,2018,August
+54641,6116104830 Glvs Ex Veg Fib Kt Impreg Plas W/out 4chett Nesoi (dpr),April 2018,China,0,"1,107",1107,206,1107,6116104830,2018,April
+55212,"6117809520 Clothing Accessories Nesoi Of Wool, Knit (doz)",February 2018,China,0,"6,949",6949,1015,6949,6117809520,2018,February
+55593,"6201920500 M/b Anoraks Ski-jackets Etc Of Cotton & Down, Rpo (doz)",June 2018,China,0,"1,101",1101,48,1101,6201920500,2018,June
+55594,"6201920500 M/b Anoraks Ski-jackets Etc Of Cotton & Down, Rpo (doz)",July 2018,China,0,315,315,14,315,6201920500,2018,July
+55709,"6201924521 M/b Anrks,wnd-bkrs,smlr Art,n-knit,cotton,c Nesoi (doz)",April 2018,China,0,"16,614",16614,1561,16614,6201924521,2018,April
+56363,6202929031 Girls' Anorak & Smlr Article Cotton Corduroy Nesoi (doz),July 2018,China,0,"5,351",5351,476,5351,6202929031,2018,July
+56364,6202929031 Girls' Anorak & Smlr Article Cotton Corduroy Nesoi (doz),August 2018,China,0,"3,989",3989,355,3989,6202929031,2018,August
+56368,6202929031 Girls' Anorak & Smlr Article Cotton Corduroy Nesoi (doz),December 2018,China,0,"2,207",2207,197,2207,6202929031,2018,December
+57309,"6203422505 M/b Ovrlls,n-knit,cotton,insltd Cld Wther Pr Nesoi (doz)",January 2018,China,0,447,447,46,447,6203422505,2018,January
+57320,"6203422505 M/b Ovrlls,n-knit,cotton,insltd Cld Wther Pr Nesoi (doz)",December 2018,China,0,"68,774",68774,7084,68774,6203422505,2018,December
+57644,6203434500 M/b Trousers Etc Of Syn Fib&gt;15% Down & Wfp  Nesoi (doz),August 2018,China,0,"2,496",0,0,2496,6203434500,2018,August
+57662,"6203436005 M Or B Overalls Of Synth Fibers, Insulated  Nesoi (doz)",February 2018,China,0,428,428,64,428,6203436005,2018,February
+57665,"6203436005 M Or B Overalls Of Synth Fibers, Insulated  Nesoi (doz)",July 2018,China,0,"1,086",1086,163,1086,6203436005,2018,July
+57669,"6203436005 M Or B Overalls Of Synth Fibers, Insulated  Nesoi (doz)",November 2018,China,0,"3,666",3666,546,3666,6203436005,2018,November
+57670,"6203436005 M Or B Overalls Of Synth Fibers, Insulated  Nesoi (doz)",December 2018,China,0,"22,843",22843,3403,22843,6203436005,2018,December
+57931,"6203496020 Mb Trouser Etc Con Gt=70% Slk/slk Wst, Nt K Nesoi (doz)",September 2018,China,0,"56,949",0,0,56949,6203496020,2018,September
+57935,"6203496030 Mb Shorts Con Gt=70% Slk/slk Wst, Not Kt/cr Nesoi (doz)",January 2018,China,0,"49,405",0,0,49405,6203496030,2018,January
+57936,"6203496030 Mb Shorts Con Gt=70% Slk/slk Wst, Not Kt/cr Nesoi (doz)",February 2018,China,0,"14,549",0,0,14549,6203496030,2018,February
+57938,"6203496030 Mb Shorts Con Gt=70% Slk/slk Wst, Not Kt/cr Nesoi (doz)",April 2018,China,0,"51,434",0,0,51434,6203496030,2018,April
+57939,"6203496030 Mb Shorts Con Gt=70% Slk/slk Wst, Not Kt/cr Nesoi (doz)",May 2018,China,0,"28,266",0,0,28266,6203496030,2018,May
+57942,"6203496030 Mb Shorts Con Gt=70% Slk/slk Wst, Not Kt/cr Nesoi (doz)",August 2018,China,0,"24,171",0,0,24171,6203496030,2018,August
+57943,"6203496030 Mb Shorts Con Gt=70% Slk/slk Wst, Not Kt/cr Nesoi (doz)",September 2018,China,0,"14,263",0,0,14263,6203496030,2018,September
+60051,"6205202036 Men's Corduroy Shirts Of Cotton, Not Knit (doz)",March 2018,China,0,"1,839",1839,362,1839,6205202036,2018,March
+60324,"6205904020 M/b Shirts Of Ot Textile Mat Subj Wool Res, N Kt (doz)",January 2018,China,0,690,690,19,690,6205904020,2018,January
+61640,"6210402800 M/b Garments Nesoi Rubberized Tex Mrtl Ex mmf, Rpo (doz)",February 2018,China,0,"5,328",5328,176,5328,6210402800,2018,February
+61645,"6210402800 M/b Garments Nesoi Rubberized Tex Mrtl Ex mmf, Rpo (doz)",July 2018,China,0,366,366,12,366,6210402800,2018,July
+61869,"6210500540 W/g Overalls Rubberized Man-made Fibers, Not K Rpo (doz)",June 2018,China,0,"3,128",3128,223,3128,6210500540,2018,June
+61908,"6210502250 W/g Anoraks, Etc Of Rubberized Tex Mtrl Ex mmf Rpo (doz)",May 2018,China,0,"13,602",13602,844,13602,6210502250,2018,May
+62284,"6211204815 M/b Ski-suit, Nesoi, Cotton, Not Knit Or Crochetd (doz)",January 2018,China,0,"7,798",7798,1161,7798,6211204815,2018,January
+62285,"6211204815 M/b Ski-suit, Nesoi, Cotton, Not Knit Or Crochetd (doz)",February 2018,China,0,"7,217",7217,1075,7217,6211204815,2018,February
+62286,"6211204815 M/b Ski-suit, Nesoi, Cotton, Not Knit Or Crochetd (doz)",March 2018,China,0,429,429,64,429,6211204815,2018,March
+62288,"6211204815 M/b Ski-suit, Nesoi, Cotton, Not Knit Or Crochetd (doz)",May 2018,China,0,"1,098",1098,164,1098,6211204815,2018,May
+62289,"6211204815 M/b Ski-suit, Nesoi, Cotton, Not Knit Or Crochetd (doz)",July 2018,China,0,742,742,111,742,6211204815,2018,July
+62290,"6211204815 M/b Ski-suit, Nesoi, Cotton, Not Knit Or Crochetd (doz)",September 2018,China,0,396,396,59,396,6211204815,2018,September
+62291,"6211204815 M/b Ski-suit, Nesoi, Cotton, Not Knit Or Crochetd (doz)",December 2018,China,0,"6,784",6784,1011,6784,6211204815,2018,December
+62620,"6211339003 M/b Cvrals & Smi Apparel mmf Gt=15% Down, Nesoi (doz)",September 2018,China,0,"2,528",2528,404,2528,6211339003,2018,September
+62622,"6211339003 M/b Cvrals & Smi Apparel mmf Gt=15% Down, Nesoi (doz)",November 2018,China,0,"6,460",6460,1034,6460,6211339003,2018,November
+62957,"6211420507 W/g Cvrlls & Smlr Appl,cotton,n-kt,insltd Prot Rpo (doz)",May 2018,China,0,634,634,51,634,6211420507,2018,May
+67448,6402190590 Oth Ftwr Soles R/p Up Gt 90% Ext Sur P Golf Youths (prs),November 2018,China,0,"3,431",3431,206,3431,6402190590,2018,November
+67665,"6402914040 Oth Ftwr R/p Ankle Prot Agst Chm Weat,women Wk Ftw (prs)",August 2018,China,0,634,634,38,634,6402914040,2018,August
+67694,"6402914230 Mens Fwr Rubr Out Sol Upr,prtcve Hgt Nt Ex 15.34cm (prs)",January 2018,China,0,"4,572",4572,914,4572,6402914230,2018,January
+67695,"6402914230 Mens Fwr Rubr Out Sol Upr,prtcve Hgt Nt Ex 15.34cm (prs)",February 2018,China,0,"11,882",11882,2376,11882,6402914230,2018,February
+67697,"6402914230 Mens Fwr Rubr Out Sol Upr,prtcve Hgt Nt Ex 15.34cm (prs)",April 2018,China,0,"13,945",13945,2788,13945,6402914230,2018,April
+67707,"6402914260 Wmns Fwr Rubr Out Sol Upr,prtcve Hgt Nt Ex 15.34cm (prs)",February 2018,China,0,"12,725",12725,2545,12725,6402914260,2018,February
+67725,"6402915010 Oth Ftwr R/p Cov Ank For Protection,men, Work Ftwr (prs)",January 2018,China,0,"5,892",5892,2210,5892,6402915010,2018,January
+67726,"6402915010 Oth Ftwr R/p Cov Ank For Protection,men, Work Ftwr (prs)",February 2018,China,0,"5,199",5199,1950,5199,6402915010,2018,February
+67731,"6402915010 Oth Ftwr R/p Cov Ank For Protection,men, Work Ftwr (prs)",July 2018,China,0,"2,728",2728,1024,2728,6402915010,2018,July
+67732,"6402915010 Oth Ftwr R/p Cov Ank For Protection,men, Work Ftwr (prs)",August 2018,China,0,"3,082",3082,1157,3082,6402915010,2018,August
+67733,"6402915010 Oth Ftwr R/p Cov Ank For Protection,men, Work Ftwr (prs)",September 2018,China,0,"2,427",2427,910,2427,6402915010,2018,September
+67749,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",January 2018,China,0,"2,389",2389,896,2389,6402915045,2018,January
+67750,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",February 2018,China,0,"3,126",3126,1173,3126,6402915045,2018,February
+67751,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",March 2018,China,0,"5,629",5629,2111,5629,6402915045,2018,March
+67752,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",April 2018,China,0,"8,962",8962,3361,8962,6402915045,2018,April
+67753,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",May 2018,China,0,"7,996",7996,2999,7996,6402915045,2018,May
+67754,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",June 2018,China,0,"8,044",8044,3016,8044,6402915045,2018,June
+67755,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",July 2018,China,0,"4,642",4642,1740,4642,6402915045,2018,July
+67756,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",August 2018,China,0,"6,021",6021,2258,6021,6402915045,2018,August
+67757,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",September 2018,China,0,"5,608",5608,2103,5608,6402915045,2018,September
+67758,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",October 2018,China,0,689,689,258,689,6402915045,2018,October
+67759,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",November 2018,China,0,"1,448",1448,543,1448,6402915045,2018,November
+67760,"6402915045 Oth Ftwr R/p Cov Ank For Protection, Wom Work Ftwr (prs)",December 2018,China,0,"1,264",1264,474,1264,6402915045,2018,December
+67823,6402917060 Oth Ftwr R/p Cv Ank Val ($3-$6.50/pair) Women (prs),April 2018,China,0,680,680,399,680,6402917060,2018,April
+67824,6402917060 Oth Ftwr R/p Cv Ank Val ($3-$6.50/pair) Women (prs),May 2018,China,0,272,272,160,272,6402917060,2018,May
+67912,"6402919010 Oth Ftwr R/p Cov Ank Val Gt $12/pr, Men, Work Ftwr (prs)",September 2018,China,0,"1,855",1855,371,1855,6402919010,2018,September
+67913,"6402919010 Oth Ftwr R/p Cov Ank Val Gt $12/pr, Men, Work Ftwr (prs)",October 2018,China,0,"3,237",3237,648,3237,6402919010,2018,October
+67914,"6402919010 Oth Ftwr R/p Cov Ank Val Gt $12/pr, Men, Work Ftwr (prs)",November 2018,China,0,"2,791",2791,558,2791,6402919010,2018,November
+67915,"6402919010 Oth Ftwr R/p Cov Ank Val Gt $12/pr, Men, Work Ftwr (prs)",December 2018,China,0,"3,150",3150,631,3150,6402919010,2018,December
+67929,"6402919045 Oth Ftwr R/p Cov Ank Val Gt $12/pr,women, Wk Ftwr (prs)",February 2018,China,0,"3,960",3960,792,3960,6402919045,2018,February
+67930,"6402919045 Oth Ftwr R/p Cov Ank Val Gt $12/pr,women, Wk Ftwr (prs)",March 2018,China,0,"1,848",1848,369,1848,6402919045,2018,March
+67936,"6402919045 Oth Ftwr R/p Cov Ank Val Gt $12/pr,women, Wk Ftwr (prs)",September 2018,China,0,"2,120",2120,424,2120,6402919045,2018,September
+67937,"6402919045 Oth Ftwr R/p Cov Ank Val Gt $12/pr,women, Wk Ftwr (prs)",October 2018,China,0,"3,320",3320,663,3320,6402919045,2018,October
+67939,"6402919045 Oth Ftwr R/p Cov Ank Val Gt $12/pr,women, Wk Ftwr (prs)",December 2018,China,0,"2,211",2211,442,2211,6402919045,2018,December
+68040,6402992530 Oth Ftwr R/p Upper Gt 90% R/p Base Of Cork; Men (prs),June 2018,China,0,"3,705",3705,463,3705,6402992530,2018,June
+68041,6402992530 Oth Ftwr R/p Upper Gt 90% R/p Base Of Cork; Men (prs),July 2018,China,0,"4,467",4467,558,4467,6402992530,2018,July
+68055,6402992590 Oth Ftwr R/p Upper Gt 90% R/p Base Cork Othr Pers (prs),June 2018,China,0,"1,205",1205,150,1205,6402992590,2018,June
+68224,6402993350 Oth Ftwr R/p Protect Agnst Wtr Chem Weather Women (prs),September 2018,China,0,"2,622",2622,984,2622,6402993350,2018,September
+68947,6403916030 Ftwr:so R/p:up Lthr:cv Ank:tennis Shoes:men Pigskn (prs),March 2018,China,0,"24,015",24015,2041,24015,6403916030,2018,March
+68971,6403916050 Ftwr:so R/p:up Pigsk:cv Ank: Tenis Shoe Youth/boys (prs),March 2018,China,0,664,664,57,664,6403916050,2018,March
+69581,6404116930 Ftwr So Affix To Upp Spt Va($3-$6.50/pr) Men Nesoi (prs),December 2018,China,0,"1,379",1379,518,1379,6404116930,2018,December
+69585,6404116960 Ftwr So Affix To Up Spt Val($3-$6.50/pr) Wmn Nesoi (prs),April 2018,China,0,"7,716",7716,2895,7716,6404116960,2018,April
+69594,6404116990 Ftwr So Affix To Up Spt($3-$6.50/pr) Ot Ex M/w Nes (prs),January 2018,China,0,"1,632",1632,612,1632,6404116990,2018,January
+69833,"6404119010 Ski Boots,snowboard Boots,val Gt $12 Per Pair, Men (prs)",December 2018,China,0,"23,198",0,0,23198,6404119010,2018,December
+69851,"6404119040 Ski Boots,snowboard Boots,etc Val Gt $12/pr Women (prs)",July 2018,China,0,"17,182",17182,3436,17182,6404119040,2018,July
+69856,"6404119040 Ski Boots,snowboard Boots,etc Val Gt $12/pr Women (prs)",December 2018,China,0,"30,745",0,0,30745,6404119040,2018,December
+70564,"6404197715 Ftwr Rubplas Sol $3-$6.50 Noadh,up Txt Mat Hse Slp (prs)",April 2018,China,0,"6,553",6553,820,6553,6404197715,2018,April
+70572,"6404197715 Ftwr Rubplas Sol $3-$6.50 Noadh,up Txt Mat Hse Slp (prs)",December 2018,China,0,"41,407",41407,5177,41407,6404197715,2018,December
+70691,"6404198715 Ftwear Out Sol/ups Txt,nes Ov$6.50nov$12,slippers (prs)",February 2018,China,0,584,584,73,584,6404198715,2018,February
+71243,6406901570 Prts Of Ftwr Tex Mat Oth Leg-warmers Other Nesoi (doz),March 2018,China,0,757,757,113,757,6406901570,2018,March
+72813,"6807900010 Roofing And Siding Of Asphalt, Or Similar Material (kg)",January 2018,China,0,"46,690",46690,1261,46690,6807900010,2018,January
+73565,"6907231011 Unglzd Cermc Tile, 30 Cm Or Less, H20 Ab Over 10% (m2)",February 2018,China,0,"5,040",5040,504,5040,6907231011,2018,February
+73566,"6907231011 Unglzd Cermc Tile, 30 Cm Or Less, H20 Ab Over 10% (m2)",April 2018,China,0,"10,240",10240,1024,10240,6907231011,2018,April
+73568,"6907231011 Unglzd Cermc Tile, 30 Cm Or Less, H20 Ab Over 10% (m2)",June 2018,China,0,"2,120",2120,212,2120,6907231011,2018,June
+73569,"6907231011 Unglzd Cermc Tile, 30 Cm Or Less, H20 Ab Over 10% (m2)",July 2018,China,0,"13,400",13400,1340,13400,6907231011,2018,July
+73570,"6907231011 Unglzd Cermc Tile, 30 Cm Or Less, H20 Ab Over 10% (m2)",August 2018,China,0,"3,320",3320,332,3320,6907231011,2018,August
+73571,"6907231011 Unglzd Cermc Tile, 30 Cm Or Less, H20 Ab Over 10% (m2)",September 2018,China,0,"2,160",2160,216,2160,6907231011,2018,September
+73572,"6907231011 Unglzd Cermc Tile, 30 Cm Or Less, H20 Ab Over 10% (m2)",November 2018,China,0,"2,640",2640,264,2640,6907231011,2018,November
+73581,"6907231051 Unglzd Cermc Tile,h20 Abs Exceeding 10%, Other (m2)",August 2018,China,0,"8,462",8462,847,8462,6907231051,2018,August
+77790,7202800000 Ferrotungsten And Ferrosilicon Tungsten (kg),July 2018,China,0,"303,404",303404,16991,303404,7202800000,2018,July
+77840,7204100000 Cast Iron Waste And Scrap (t),January 2018,China,0,"20,290",0,0,20290,7204100000,2018,January
+77841,7204100000 Cast Iron Waste And Scrap (t),February 2018,China,0,"23,971",0,0,23971,7204100000,2018,February
+77842,7204100000 Cast Iron Waste And Scrap (t),March 2018,China,0,"23,792",0,0,23792,7204100000,2018,March
+77843,7204100000 Cast Iron Waste And Scrap (t),April 2018,China,0,"33,342",0,0,33342,7204100000,2018,April
+77844,7204100000 Cast Iron Waste And Scrap (t),May 2018,China,0,"30,306",0,0,30306,7204100000,2018,May
+77845,7204100000 Cast Iron Waste And Scrap (t),June 2018,China,0,"10,057",0,0,10057,7204100000,2018,June
+77860,7204290000 Alloy Steel Waste And Scrap Not Stainless (t),February 2018,China,0,"6,904",0,0,6904,7204290000,2018,February
+77862,7204290000 Alloy Steel Waste And Scrap Not Stainless (t),April 2018,China,0,"29,509",0,0,29509,7204290000,2018,April
+77864,7204290000 Alloy Steel Waste And Scrap Not Stainless (t),June 2018,China,0,"7,378",0,0,7378,7204290000,2018,June
+77871,"7204410080 Shvngs,chps,mill Wste,swdst,flngs,trm,stmpngs Scrp (t)",February 2018,China,0,"2,993",0,0,2993,7204410080,2018,February
+77872,"7204410080 Shvngs,chps,mill Wste,swdst,flngs,trm,stmpngs Scrp (t)",March 2018,China,0,"11,448",0,0,11448,7204410080,2018,March
+78154,"7212600000 Flt-rld Ios Na, Lt 600mm, Clad, Nesoi (kg)",September 2018,China,0,"185,433",185433,46359,185433,7212600000,2018,September
+78513,"7217108020 Rnd Wire Iron/stl Nt Plt(.25-.6%carb), Not Heated (kg)",August 2018,China,0,"3,211",3211,803,3211,7217108020,2018,August
+79879,"7302101025 Rails, New, Iron/steel, Not Heat-treated, Nesoi (kg)",October 2018,China,0,"52,840",52840,0,52840,7302101025,2018,October
+79881,"7302101025 Rails, New, Iron/steel, Not Heat-treated, Nesoi (kg)",December 2018,China,0,"93,239",93239,23310,93239,7302101025,2018,December
+80154,"7304295015 Tubing,sm,oil/gas,irn/stl,diam Gt 114.3,lt=9.5mm (kg)",September 2018,China,0,"19,979",19979,4995,19979,7304295015,2018,September
+80235,"7304390020 Tube,pipe,profil,smls,irn/stl,nesoi,diam Lt 38.1mm (kg)",March 2018,China,0,"1,160,995",0,0,1160995,7304390020,2018,March
+80297,"7304390048 Pipes,smls,i/s,nesoi,diam,190.5-285.8,wal Lt12.7mm (kg)",March 2018,China,0,"85,787",0,0,85787,7304390048,2018,March
+80678,7304907000 Tubes Etc Smls Nes Noncirc Cs 4mm Thck Or Ls Alstl (kg),August 2018,China,0,"5,391",5391,1348,5391,7304907000,2018,August
+80720,7305316010 Tubes/pipes ss Lng Weld Cir X-sec Gt 406.4mm Nesoi (kg),March 2018,China,0,"688,528",0,0,688528,7305316010,2018,March
+80985,7306405062 Oth ss T/p/hp ccs Wl 1.65 Ao Thk Od Nov 114.3 Etc (kg),March 2018,China,0,"292,950",0,0,292950,7306405062,2018,March
+85140,7409115050 Ref Cu Sht Strp Plt Un5mm Th A Un 500 mm Wide Coil (kg),March 2018,China,0,"163,595",163595,1636,163595,7409115050,2018,March
+87291,7901110000 Zinc Unwrt Nt Aly Cnt Wgt At Lst 99.99 Percnt Zinc (kg),March 2018,China,0,"751,035",751035,11266,751035,7901110000,2018,March
+87292,7901110000 Zinc Unwrt Nt Aly Cnt Wgt At Lst 99.99 Percnt Zinc (kg),April 2018,China,0,"825,256",825256,12379,825256,7901110000,2018,April
+87293,7901110000 Zinc Unwrt Nt Aly Cnt Wgt At Lst 99.99 Percnt Zinc (kg),May 2018,China,0,"2,909,819",2909819,43647,2909819,7901110000,2018,May
+87294,7901110000 Zinc Unwrt Nt Aly Cnt Wgt At Lst 99.99 Percnt Zinc (kg),June 2018,China,0,"409,563",409563,6143,409563,7901110000,2018,June
+87295,7901110000 Zinc Unwrt Nt Aly Cnt Wgt At Lst 99.99 Percnt Zinc (kg),July 2018,China,0,"407,313",407313,6110,407313,7901110000,2018,July
+87296,7901110000 Zinc Unwrt Nt Aly Cnt Wgt At Lst 99.99 Percnt Zinc (kg),August 2018,China,0,"473,874",473874,7108,473874,7901110000,2018,August
+87297,7901110000 Zinc Unwrt Nt Aly Cnt Wgt At Lst 99.99 Percnt Zinc (kg),September 2018,China,0,"3,168,406",3168406,47526,3168406,7901110000,2018,September
+87298,7901110000 Zinc Unwrt Nt Aly Cnt Wgt At Lst 99.99 Percnt Zinc (kg),October 2018,China,0,"3,379,647",3379647,50695,3379647,7901110000,2018,October
+87299,7901110000 Zinc Unwrt Nt Aly Cnt Wgt At Lst 99.99 Percnt Zinc (kg),November 2018,China,0,"186,818",186818,2802,186818,7901110000,2018,November
+88051,"8112927000 Vanadium, In Powder & Oth Unwrgt Forms, Nt Wst&scp (kg)",February 2018,China,0,"8,784",8784,176,8784,8112927000,2018,February
+91303,8402900010 Heat Exchangers (t),September 2018,China,0,"8,940",8940,2619,8940,8402900010,2018,September
+91459,"8407290010 Spk-ign Rec Or Rot Int Com Pst Eng,mar,in/outboard (no)",January 2018,China,0,"947,045",0,0,947045,8407290010,2018,January
+91460,"8407290010 Spk-ign Rec Or Rot Int Com Pst Eng,mar,in/outboard (no)",February 2018,China,0,"986,337",0,0,986337,8407290010,2018,February
+91462,"8407290010 Spk-ign Rec Or Rot Int Com Pst Eng,mar,in/outboard (no)",April 2018,China,0,"1,060,375",0,0,1060375,8407290010,2018,April
+91463,"8407290010 Spk-ign Rec Or Rot Int Com Pst Eng,mar,in/outboard (no)",May 2018,China,0,"697,153",0,0,697153,8407290010,2018,May
+91464,"8407290010 Spk-ign Rec Or Rot Int Com Pst Eng,mar,in/outboard (no)",June 2018,China,0,"547,465",0,0,547465,8407290010,2018,June
+91465,"8407290010 Spk-ign Rec Or Rot Int Com Pst Eng,mar,in/outboard (no)",July 2018,China,0,"80,184",0,0,80184,8407290010,2018,July
+91467,"8407290040 Spk-ign Rec Or Rot Int Com Pst Eng,mari, In/inbord (no)",January 2018,China,0,"19,306",0,0,19306,8407290040,2018,January
+91468,"8407290040 Spk-ign Rec Or Rot Int Com Pst Eng,mari, In/inbord (no)",February 2018,China,0,"30,460",0,0,30460,8407290040,2018,February
+91469,"8407290040 Spk-ign Rec Or Rot Int Com Pst Eng,mari, In/inbord (no)",March 2018,China,0,"27,451",0,0,27451,8407290040,2018,March
+91470,"8407290040 Spk-ign Rec Or Rot Int Com Pst Eng,mari, In/inbord (no)",April 2018,China,0,"39,574",0,0,39574,8407290040,2018,April
+91471,"8407290040 Spk-ign Rec Or Rot Int Com Pst Eng,mari, In/inbord (no)",May 2018,China,0,"16,846",0,0,16846,8407290040,2018,May
+91472,"8407290040 Spk-ign Rec Or Rot Int Com Pst Eng,mari, In/inbord (no)",June 2018,China,0,"19,711",0,0,19711,8407290040,2018,June
+91473,"8407290040 Spk-ign Rec Or Rot Int Com Pst Eng,mari, In/inbord (no)",July 2018,China,0,"3,513",0,0,3513,8407290040,2018,July
+91686,"8408100030 Comp-igni Pst Eng,marine,exc223.8kw,not Exc 373 Kw (no)",February 2018,China,0,"4,555",4555,114,4555,8408100030,2018,February
+91687,"8408100030 Comp-igni Pst Eng,marine,exc223.8kw,not Exc 373 Kw (no)",May 2018,China,0,"3,079",3079,77,3079,8408100030,2018,May
+91688,"8408100030 Comp-igni Pst Eng,marine,exc223.8kw,not Exc 373 Kw (no)",June 2018,China,0,"3,346",3346,84,3346,8408100030,2018,June
+91689,"8408100030 Comp-igni Pst Eng,marine,exc223.8kw,not Exc 373 Kw (no)",July 2018,China,0,"6,178",6178,1699,6178,8408100030,2018,July
+91690,"8408100030 Comp-igni Pst Eng,marine,exc223.8kw,not Exc 373 Kw (no)",September 2018,China,0,"2,072",2072,570,2072,8408100030,2018,September
+91691,"8408100030 Comp-igni Pst Eng,marine,exc223.8kw,not Exc 373 Kw (no)",October 2018,China,0,"42,798",42798,11769,42798,8408100030,2018,October
+91692,"8408100030 Comp-igni Pst Eng,marine,exc223.8kw,not Exc 373 Kw (no)",November 2018,China,0,"3,905",3905,1074,3905,8408100030,2018,November
+91791,"8408909050 Comp-ign Int Comb Pst Eng,nesoi,exceeding 1,119 Kw (no)",February 2018,China,0,"26,985",0,0,26985,8408909050,2018,February
+91792,"8408909050 Comp-ign Int Comb Pst Eng,nesoi,exceeding 1,119 Kw (no)",March 2018,China,0,"67,416",0,0,67416,8408909050,2018,March
+91793,"8408909050 Comp-ign Int Comb Pst Eng,nesoi,exceeding 1,119 Kw (no)",April 2018,China,0,"78,226",0,0,78226,8408909050,2018,April
+92056,"8411114000 Turbojet Aircraft Engines, Thrust Not Exceed 25 Kn (no)",July 2018,China,0,"22,039",22039,0,22039,8411114000,2018,July
+92070,"8411814000 Gas Turbine A/c Engines,nesoi,power Not Exc 5000kw (no)",June 2018,China,0,"2,122",0,0,2122,8411814000,2018,June
+92071,"8411814000 Gas Turbine A/c Engines,nesoi,power Not Exc 5000kw (no)",October 2018,China,0,"17,076",17076,865,17076,8411814000,2018,October
+92072,"8411814000 Gas Turbine A/c Engines,nesoi,power Not Exc 5000kw (no)",November 2018,China,0,"5,528",5528,1382,5528,8411814000,2018,November
+92329,8412390040 Pneum Pwr Eng & Mtrs Unlim Rotary Actng (no),March 2018,China,0,"70,892",0,0,70892,8412390040,2018,March
+92386,8412901000 Parts Of Hydrojet Engines For Marine Propulsion (x),December 2018,China,0,"4,014",4014,1004,4014,8412901000,2018,December
+93621,"8415810120 Air-cnd,inc Ref & Val For Rv Cl/ht,slf-cn Gt 17.58 (no)",August 2018,China,0,"6,386",6386,64,6386,8415810120,2018,August
+94973,"8421398030 Industrial Gas Cleaning Equipment, Nesoi (no)",September 2018,China,0,"1,522,265",1522265,0,1522265,8421398030,2018,September
+97242,"8433110040 Riding Mowers, Other Than Electric,7.46kw And Over (no)",October 2018,China,0,"88,453",0,0,88453,8433110040,2018,October
+97243,"8433110040 Riding Mowers, Other Than Electric,7.46kw And Over (no)",November 2018,China,0,"23,323",0,0,23323,8433110040,2018,November
+97254,"8433110050 Mowers For Lawns,parks,etc.,exc.riding,under 3.7KW (no)",October 2018,China,0,"2,713",0,0,2713,8433110050,2018,October
+97256,"8433110060 Mowers For Lawns,parks,etc.,exc.riding Over 3.7KW (no)",January 2018,China,0,"2,743,282",0,0,2743282,8433110060,2018,January
+97358,"8433510010 Combine Harvester-threshers, Self-propelled (no)",January 2018,China,0,"230,838",0,0,230838,8433510010,2018,January
+97362,"8433510010 Combine Harvester-threshers, Self-propelled (no)",May 2018,China,0,"796,430",0,0,796430,8433510010,2018,May
+97363,"8433510010 Combine Harvester-threshers, Self-propelled (no)",June 2018,China,0,"621,714",0,0,621714,8433510010,2018,June
+98949,"8450200010 Wash Mach,coin Op,cap Exc 10kg,household,laundry (no)",January 2018,China,0,"11,129",11129,111,11129,8450200010,2018,January
+98956,"8450200010 Wash Mach,coin Op,cap Exc 10kg,household,laundry (no)",August 2018,China,0,"9,272",9272,93,9272,8450200010,2018,August
+99922,"8459290050 Drill Mch,metal,radial,ex N/c,$3025 & Ov,new (no)",March 2018,China,0,"6,380",6380,268,6380,8459290050,2018,March
+99926,"8459290050 Drill Mch,metal,radial,ex N/c,$3025 & Ov,new (no)",December 2018,China,0,"6,380",6380,906,6380,8459290050,2018,December
+102632,8472905000 Typewriters; Word Processing Machines (no),March 2018,China,0,"18,400",0,0,18400,8472905000,2018,March
+102638,8472905000 Typewriters; Word Processing Machines (no),September 2018,China,0,"56,300",0,0,56300,8472905000,2018,September
+105185,8482910050 Tapered Rollers For Roller Bearings (kg),July 2018,China,0,"2,623",2623,123,2623,8482910050,2018,July
+105248,"8482991570 Cups (outer Ring) For Tapred Rller Berings,ex203mm (no)",February 2018,China,0,"10,615",10615,616,10615,8482991570,2018,February
+105252,"8482991570 Cups (outer Ring) For Tapred Rller Berings,ex203mm (no)",June 2018,China,0,"26,727",26727,1550,26727,8482991570,2018,June
+107821,"8507304000 Nickel-cadmium Batteries,elec Power For 8703.90 (no)",October 2018,China,0,"7,436",7436,186,7436,8507304000,2018,October
+111592,"8529902900 Tv Tuners, As Specified In Us Note 10 To Ch 85 (no)",June 2018,China,0,"130,544",0,0,130544,8529902900,2018,June
+112311,"8532250055 Fixed Capacitors, Paper/ Plastic, Leadless, Neso, (no)",February 2018,China,0,"2,334",0,0,2334,8532250055,2018,February
+112316,"8532250055 Fixed Capacitors, Paper/ Plastic, Leadless, Neso, (no)",August 2018,China,0,"3,153",3153,789,3153,8532250055,2018,August
+112318,"8532250055 Fixed Capacitors, Paper/ Plastic, Leadless, Neso, (no)",December 2018,China,0,"4,043",4043,1011,4043,8532250055,2018,December
+113732,8539224000 Christmas-tree Lamps Lt=200 W & Gt 100 V (no),February 2018,China,0,"10,984",10984,637,10984,8539224000,2018,February
+115628,8602100000 Diesel-electric Locomotives (no),January 2018,China,0,"79,252",0,0,79252,8602100000,2018,January
+115629,8602100000 Diesel-electric Locomotives (no),February 2018,China,0,"961,046",0,0,961046,8602100000,2018,February
+115630,8602100000 Diesel-electric Locomotives (no),March 2018,China,0,"2,001,076",0,0,2001076,8602100000,2018,March
+115631,8602100000 Diesel-electric Locomotives (no),April 2018,China,0,"1,231,826",0,0,1231826,8602100000,2018,April
+115632,8602100000 Diesel-electric Locomotives (no),May 2018,China,0,"598,783",0,0,598783,8602100000,2018,May
+115633,8602100000 Diesel-electric Locomotives (no),June 2018,China,0,"1,417,128",0,0,1417128,8602100000,2018,June
+115634,8602100000 Diesel-electric Locomotives (no),July 2018,China,0,"60,788",0,0,60788,8602100000,2018,July
+115676,8607190600 Parts Of Axles For Railwy/tramwy Locos/ Roll Stock (kg),October 2018,China,0,"4,247",4247,17,4247,8607190600,2018,October
+115678,8607190600 Parts Of Axles For Railwy/tramwy Locos/ Roll Stock (kg),December 2018,China,0,"7,752",7752,1969,7752,8607190600,2018,December
+115880,"8701301075 Trck-laying Trcts Agr,eng Lt=257.4 Kw (no)",January 2018,China,0,"496,833",0,0,496833,8701301075,2018,January
+115881,"8701301075 Trck-laying Trcts Agr,eng Lt=257.4 Kw (no)",February 2018,China,0,"371,891",0,0,371891,8701301075,2018,February
+115882,"8701301075 Trck-laying Trcts Agr,eng Lt=257.4 Kw (no)",March 2018,China,0,"1,637,605",0,0,1637605,8701301075,2018,March
+115883,"8701301075 Trck-laying Trcts Agr,eng Lt=257.4 Kw (no)",April 2018,China,0,"637,327",0,0,637327,8701301075,2018,April
+115884,"8701301075 Trck-laying Trcts Agr,eng Lt=257.4 Kw (no)",May 2018,China,0,"1,116,943",0,0,1116943,8701301075,2018,May
+115885,"8701301075 Trck-laying Trcts Agr,eng Lt=257.4 Kw (no)",June 2018,China,0,"1,230,105",0,0,1230105,8701301075,2018,June
+115886,"8701301075 Trck-laying Trcts Agr,eng Lt=257.4 Kw (no)",July 2018,China,0,"130,440",130440,32610,130440,8701301075,2018,July
+115930,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",January 2018,China,0,"5,843,000",0,0,5843000,8701951000,2018,January
+115931,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",February 2018,China,0,"4,850,203",0,0,4850203,8701951000,2018,February
+115932,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",March 2018,China,0,"7,128,008",0,0,7128008,8701951000,2018,March
+115933,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",April 2018,China,0,"6,348,370",0,0,6348370,8701951000,2018,April
+115934,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",May 2018,China,0,"8,804,115",0,0,8804115,8701951000,2018,May
+115935,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",June 2018,China,0,"7,998,102",0,0,7998102,8701951000,2018,June
+115936,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",July 2018,China,0,"2,715,861",0,0,2715861,8701951000,2018,July
+115937,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",August 2018,China,0,"19,038",0,0,19038,8701951000,2018,August
+115938,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",September 2018,China,0,"13,276",13276,3319,13276,8701951000,2018,September
+115939,"8701951000 Trcts,agricultural Use, Exceeding 130 Kw,nesoi (no)",October 2018,China,0,"7,132",7132,1783,7132,8701951000,2018,October
+116075,"8703240150 Pass Veh,only Spk Ign Ov 4 N/o 6 Cyl,ov 3000 cc (no)",January 2018,China,0,"201,486",201486,5037,201486,8703240150,2018,January
+116076,"8703240150 Pass Veh,only Spk Ign Ov 4 N/o 6 Cyl,ov 3000 cc (no)",February 2018,China,0,"229,836",229836,5746,229836,8703240150,2018,February
+116077,"8703240150 Pass Veh,only Spk Ign Ov 4 N/o 6 Cyl,ov 3000 cc (no)",March 2018,China,0,"658,396",658396,16460,658396,8703240150,2018,March
+116078,"8703240150 Pass Veh,only Spk Ign Ov 4 N/o 6 Cyl,ov 3000 cc (no)",April 2018,China,0,"1,552,792",1552792,38819,1552792,8703240150,2018,April
+116080,"8703240150 Pass Veh,only Spk Ign Ov 4 N/o 6 Cyl,ov 3000 cc (no)",June 2018,China,0,"2,043,306",2043306,51083,2043306,8703240150,2018,June
+116091,"8703400020 Pass Veh,sprk Ig/elec,nchg,nesoi,4 Cyl,1500-3000cc (no)",January 2018,China,0,"291,114",291114,7277,291114,8703400020,2018,January
+116092,"8703400020 Pass Veh,sprk Ig/elec,nchg,nesoi,4 Cyl,1500-3000cc (no)",February 2018,China,0,"33,846",33846,846,33846,8703400020,2018,February
+116093,"8703400020 Pass Veh,sprk Ig/elec,nchg,nesoi,4 Cyl,1500-3000cc (no)",March 2018,China,0,"170,702",170702,4268,170702,8703400020,2018,March
+116094,"8703400020 Pass Veh,sprk Ig/elec,nchg,nesoi,4 Cyl,1500-3000cc (no)",April 2018,China,0,"624,050",624050,15601,624050,8703400020,2018,April
+116095,"8703400020 Pass Veh,sprk Ig/elec,nchg,nesoi,4 Cyl,1500-3000cc (no)",May 2018,China,0,"556,069",556069,13902,556069,8703400020,2018,May
+116096,"8703400020 Pass Veh,sprk Ig/elec,nchg,nesoi,4 Cyl,1500-3000cc (no)",June 2018,China,0,"20,398",20398,510,20398,8703400020,2018,June
+116221,8707905080 Bodies For Vehicles Of Heading 8705 (no),March 2018,China,0,"14,277",14277,571,14277,8707905080,2018,March
+116222,8707905080 Bodies For Vehicles Of Heading 8705 (no),April 2018,China,0,"2,843",2843,114,2843,8707905080,2018,April
+116223,8707905080 Bodies For Vehicles Of Heading 8705 (no),June 2018,China,0,"3,177",3177,127,3177,8707905080,2018,June
+116224,8707905080 Bodies For Vehicles Of Heading 8705 (no),July 2018,China,0,"2,400",2400,96,2400,8707905080,2018,July
+116225,8707905080 Bodies For Vehicles Of Heading 8705 (no),August 2018,China,0,"2,505",2505,100,2505,8707905080,2018,August
+116226,8707905080 Bodies For Vehicles Of Heading 8705 (no),September 2018,China,0,"8,325",8325,333,8325,8707905080,2018,September
+118583,8902000000 Fishng Vessls;factry Ships For Procs/presrvng Fish (no),January 2018,China,0,"192,050",0,0,192050,8902000000,2018,January
+121209,9021904080 Pts For Pacemakers For Stimulating Heart Muscles (x),December 2018,China,0,"16,488",0,0,16488,9021904080,2018,December
+122285,9029204040 Speedometers&tachometers Used In Civil Aircraft (no),August 2018,China,0,"2,753",0,0,2753,9029204040,2018,August
+123473,"9102113020 Cases, Wrt Wtch,bty,mech Disp,no/1jw,gl/sl Pl Case (no)",October 2018,China,0,"22,675",22675,1361,22675,9102113020,2018,October
+123481,"9102113030 Strap, Wrt Wtch,bty,mech Disp,no/1jw,gl/sl Pl Case (no)",June 2018,China,0,"73,643",73643,2063,73643,9102113030,2018,June
+123485,"9102113030 Strap, Wrt Wtch,bty,mech Disp,no/1jw,gl/sl Pl Case (no)",October 2018,China,0,"2,259",2259,63,2259,9102113030,2018,October
+123489,"9102113040 Bty For Wrt Wtch,bty,mech Disp,no/1jw,gl/sl Pl Cse (no)",April 2018,China,0,"4,455",4455,236,4455,9102113040,2018,April
+123565,"9102116510 Mvt For Wrt Wtch,bty,mech Disp,gt 1jw,bd Tx,bse Mt (no)",January 2018,China,0,"15,858",15858,437,15858,9102116510,2018,January
+123589,"9102116530 Strp For Wrt Wtch,bty,mech Disp,gt 1jw,bd Tx,bs Mt (no)",January 2018,China,0,"3,842",3842,538,3842,9102116530,2018,January
+123601,"9102116540 Bty For Wrt Wtch,bty,mech Disp,gt 1jw,bnd Tx,bs Mt (no)",June 2018,China,0,"2,169",2169,115,2169,9102116540,2018,June
+123608,"9102117010 Mvts For Wrt Wtch,bty,mech Disp,gt 1jw,gl/sl Pl Cs (no)",March 2018,China,0,"3,268",3268,194,3268,9102117010,2018,March
+123619,"9102117020 Case For Wrt Wtch,bty,mech Disp,gt 1jw,gl/sl Pl Cs (no)",March 2018,China,0,"2,235",2235,134,2235,9102117020,2018,March
+123629,"9102117030 Strap For Wrt Wtch,bty,mech Disp,gt 1jw,gd/sl Pl (no)",February 2018,China,0,"2,097",2097,59,2097,9102117030,2018,February
+124013,"9102294510 Mvt For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",February 2018,China,0,"57,541",57541,1169,57541,9102294510,2018,February
+124014,"9102294510 Mvt For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",March 2018,China,0,"6,921",6921,141,6921,9102294510,2018,March
+124015,"9102294510 Mvt For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",April 2018,China,0,"2,376",2376,48,2376,9102294510,2018,April
+124016,"9102294510 Mvt For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",May 2018,China,0,"3,953",3953,80,3953,9102294510,2018,May
+124018,"9102294510 Mvt For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",September 2018,China,0,"16,544",16544,349,16544,9102294510,2018,September
+124019,"9102294510 Mvt For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",October 2018,China,0,"14,966",14966,316,14966,9102294510,2018,October
+124021,"9102294510 Mvt For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",December 2018,China,0,"40,524",40524,855,40524,9102294510,2018,December
+124023,"9102294520 Cse For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",February 2018,China,0,"6,982",6982,335,6982,9102294520,2018,February
+124025,"9102294520 Cse For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",September 2018,China,0,"2,835",2835,136,2835,9102294520,2018,September
+124026,"9102294520 Cse For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",October 2018,China,0,"2,994",2994,144,2994,9102294520,2018,October
+124028,"9102294520 Cse For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",December 2018,China,0,"5,327",5327,256,5327,9102294520,2018,December
+124030,"9102294530 Bnd For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",February 2018,China,0,"3,411",3411,382,3411,9102294530,2018,February
+124032,"9102294530 Bnd For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",September 2018,China,0,"2,143",2143,240,2143,9102294530,2018,September
+124033,"9102294530 Bnd For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",October 2018,China,0,"2,263",2263,253,2263,9102294530,2018,October
+124035,"9102294530 Bnd For Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15 Ea (no)",December 2018,China,0,"2,057",2057,230,2057,9102294530,2018,December
+124038,"9102295010 Mvt, Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15,nesoi (no)",March 2018,China,0,"13,898",13898,282,13898,9102295010,2018,March
+124039,"9102295010 Mvt, Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15,nesoi (no)",April 2018,China,0,"13,916",13916,283,13916,9102295010,2018,April
+124040,"9102295010 Mvt, Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15,nesoi (no)",May 2018,China,0,"4,134",4134,84,4134,9102295010,2018,May
+124043,"9102295010 Mvt, Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15,nesoi (no)",October 2018,China,0,"53,652",53652,1135,53652,9102295010,2018,October
+124048,"9102295020 Cse, Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15,nesoi (no)",April 2018,China,0,"2,485",2485,119,2485,9102295020,2018,April
+124050,"9102295020 Cse, Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15,nesoi (no)",October 2018,China,0,"10,136",10136,487,10136,9102295020,2018,October
+124056,"9102295030 Band Wrt Wtch,nt Bty,bs Mt,ov7,n/o17jw,ov$15,nesoi (no)",October 2018,China,0,"6,969",6969,154,6969,9102295030,2018,October
+124344,"9105118030 Cases For Travel Alarm Clocks, Battery, Nesoi (no)",March 2018,China,0,"2,336",2336,161,2336,9105118030,2018,March
+126013,"9306900050 Bombs, Grenades, Torpedos, & Siml Munitions Of War (x)",March 2018,China,0,"25,439",0,0,25439,9306900050,2018,March
+131800,9801001063 Goods In Heading 8701 Returned After Being Exportd (no),July 2018,China,0,"3,697,466",0,0,3697466,9801001063,2018,July
+131802,9801001063 Goods In Heading 8701 Returned After Being Exportd (no),September 2018,China,0,"11,511,154",0,0,11511154,9801001063,2018,September
+131803,9801001063 Goods In Heading 8701 Returned After Being Exportd (no),October 2018,China,0,"10,847,088",0,0,10847088,9801001063,2018,October
+131804,9801001063 Goods In Heading 8701 Returned After Being Exportd (no),November 2018,China,0,"9,918,978",0,0,9918978,9801001063,2018,November
+131805,9801001063 Goods In Heading 8701 Returned After Being Exportd (no),December 2018,China,0,"10,283,722",0,0,10283722,9801001063,2018,December
