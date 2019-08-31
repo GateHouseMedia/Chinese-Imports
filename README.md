@@ -6,7 +6,7 @@ GateHouse Media analysis suggests companies might be miscoding to avoid tariffs.
 
 1. **Data Acquisition.** 
 
-The data is obtained from the "[U.S. Census Bureau](https://usatrade.census.gov/)." 
+The data is obtained from the [U.S. Census Bureau](https://usatrade.census.gov/).
 - choose HTS code and Imports for the type of data 
 - Select all commodities with 10-digit HTS code
 - Choose China for country
