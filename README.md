@@ -47,16 +47,9 @@ I grouped goods with increased tariff rates and decreased dutiable values, into 
 
 The final result is a table with the count of each of the two groups for every category of good — the first four digits of an HTS code. Because I am interested in classes where goods may have been displaced I looked for categories with at least four HTS codes in each group. There were 10 categories that fit this criteria.
 
-## Notes
-The entire analysis was based on the data from the U.S. Census Bureau. According to its website, the calculated duty for each commodity, one of the key factor in the analysis, is an estimated value of the real duty. There are cases, such as returned goods that are duty-free or variable rates, where the duty paid may be over- or underestimated. The data was used because it was the possible best data on Chiense imported good.
-
 ## Acknowledgements
-<<<<<<< HEAD
-In developing this analysis, I worked with my advisor at Columbia Graduate School of Journalism, John Templon, who is also a data reporter at BuzzFeed News. I consulted my methodology with  Gary Hufbauer, senior fellow at Peterson Institute for International Trade, Geoffrey Carliner, economics professor at Boston University, Zhi Wang, research professor at George Mason University, and Xuepeng Liu, economics professor at Kansas State University.
 
-=======
 In developing this analysis, I worked with my professor at Columbia Graduate School of Journalism, John Templon, who is also a data reporter at BuzzFeed News. I also consulted with  Gary Hufbauer, a senior fellow at Peterson Institute for International Trade, Geoffrey Carliner, an economics professor at Boston University, Zhi Wang, a research professor at George Mason University, and Xuepeng Liu, an economics professor at Kansas State University.
->>>>>>> 9e315cdbe64427656dd37f83fd46fa226035c7d2
 
 ## Contact me
 Dian Zhang
