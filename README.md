@@ -21,7 +21,6 @@ I used Python/Pandas for major data cleaning. I changed all trade values into in
 
 The original data only contain each commodity's monthly dutiable value and calculated duty. In order to get the tariff rate, I calculated: 
 ```
-the tariff rate = [(calculated duty) / (dutiable value)] * 100.
 the tariff rate = [(calculated duty) / (custom value for consumption* 100)] * 100.
 ```
 
